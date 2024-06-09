@@ -1,5 +1,9 @@
 # React-shop-cloudfront
 
+## Links
+Cloudfront: https://dznvqoey3l7yu.cloudfront.net/
+S3 bucket: http://sheriff-fe-app.s3-website.eu-central-1.amazonaws.com/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
